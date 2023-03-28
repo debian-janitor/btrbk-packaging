@@ -3,7 +3,7 @@ Section: utils
 Priority: optional
 Maintainer: Axel Burri <axel@tty0.ch>
 Uploaders: Yaroslav Halchenko <debian@onerussian.com>
-Standards-Version: 4.6.1
+Standards-Version: 4.6.2
 Build-Depends:
  debhelper-compat (= 13),
  asciidoctor,
